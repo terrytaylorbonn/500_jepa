@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Hugging Face cache
+.cache/
+hf_cache/
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# Large / generated
+*.safetensors
