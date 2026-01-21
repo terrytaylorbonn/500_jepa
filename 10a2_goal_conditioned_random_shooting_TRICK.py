@@ -227,7 +227,11 @@ def sample_action_sequences(
     For Toy1DWorld, action_dim=1 so it's just 1D actions.
     """
     actions = torch.randn(num_candidates, horizon, action_dim) * action_scale
+    print(f"TT Sampled actions shape: {actions.shape}")
+    print(f"TT Actions:\n{actions}")
+    
     return actions.to(device)
+
 
 
 @torch.no_grad()
