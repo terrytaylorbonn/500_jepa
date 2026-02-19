@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
-# 9_multi_step_imagination.py
 """
-9_multi_step_imagination.py
+9-1_multi_step_imagination.py (RENAMED 26.0218)
 
 Minimal "action-conditioned predictor" training demo (JEPA-style), runnable on a laptop.
 

@@ -13,3 +13,4 @@ hf_cache/
 
 # Large / generated
 *.safetensors
+.venv/

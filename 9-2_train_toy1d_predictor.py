@@ -1,4 +1,4 @@
-#9_train_toy1d_predictor.py
+#9-2_train_toy1d_predictor.py  (RENAMED)
 import argparse
 import random
 
